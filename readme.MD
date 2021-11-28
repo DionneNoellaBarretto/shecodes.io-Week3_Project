@@ -24,7 +24,7 @@ let, if, else, alert, prompt, event
 
 
 ### 🥛 Example
-Check out [this](https://www.shecodes.io/demos/project) page, for inspiration only 🙈
+Check out [this](https://www.shecodes.io/demos/project) or [this](https://www.shecodes.io/students/projects?product=workshop) page, for inspiration only 🙈
 
 ### 🖼 Image uploader
 If you need to use images from your computer, you can use [this](https://www.shecodes.io/uploads) image uploader to include your images on your project.
