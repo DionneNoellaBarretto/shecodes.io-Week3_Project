@@ -27,7 +27,7 @@ margin, padding, font-size, font-weight, color, background (with linear-gradient
 
 ### JavaScript requirements
 
-Use the following JS functionalities
+✅ Use the following JS functionalities
 
 ```text
 let, if, else, alert, prompt, event
