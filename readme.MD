@@ -2,7 +2,7 @@
 
 Create a landing page from scratch about something you’re passionate about. The page should include a user interaction.
 
-## DNB [Solution](https://dionnenoellabarretto.github.io/shecodes.io-Week3_Project/)
+## DNB [Solution](https://dionnenoellabarretto.github.io/shecodes.io-Week3_Project/index.html)
 
 ![Project 3](./hw3.png)
 ![UserPrompt](./UserPrompt.png)
