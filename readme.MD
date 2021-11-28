@@ -1,6 +1,10 @@
 # PROJECT ASK: 
 Create a landing page from scratch about something you’re passionate about. The page should include a user interaction.
 
+# DNB Solution: 
+
+#### Wireframe/Mockup
+![!Wireframe/Mockup](./Wireframe_Mockup.png)
 
 ## HTML requirements 
 Include these the following HTML elements tags
