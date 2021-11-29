@@ -40,3 +40,5 @@ Check out [this](https://www.shecodes.io/demos/project) or [this](https://www.sh
 #### 🖼 Image uploader
 
 If you need to use images from your computer, you can use [this](https://www.shecodes.io/uploads) image uploader to include your images on your project.
+
+#### Prof [Solution](https://gist.github.com/matthieua/e6bdb0d6bc11c840fafd0dc05469bc2a)
